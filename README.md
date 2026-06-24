@@ -5,7 +5,7 @@ CommerceFlow is a runnable data engineering project scaffold for e-commerce tran
 ## Project structure
 
 ```text
-Commerceflow/
+CommerceFlow/
 ├── config/
 │   ├── aws_glue_redshift.example.json
 │   └── local.example.json
