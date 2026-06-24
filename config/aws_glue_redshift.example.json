@@ -1,0 +1,8 @@
+{
+  "aws_integration": {
+    "s3_raw_uri": "s3://your-bucket/commerceflow/raw/",
+    "s3_curated_uri": "s3://your-bucket/commerceflow/curated/",
+    "glue_job_name": "commerceflow-etl-job",
+    "redshift_table": "analytics.fact_transactions"
+  }
+}

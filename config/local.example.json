@@ -1,0 +1,8 @@
+{
+  "pipeline": {
+    "raw_input_path": "data/raw/transactions.csv",
+    "bronze_output_path": "data/processed/bronze/transactions_bronze.csv",
+    "silver_output_path": "data/processed/silver/transactions_silver.csv",
+    "gold_output_path": "data/processed/gold/transactions_gold.csv"
+  }
+}
