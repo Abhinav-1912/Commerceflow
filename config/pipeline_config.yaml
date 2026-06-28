@@ -1,0 +1,11 @@
+pipeline:
+  name: commerceflow
+  version: 1
+  batch_size: 5000
+
+s3:
+  raw_transactions_key: sample/sample_transactions.csv
+  raw_customers_key: sample/sample_customers.csv
+  processed_transactions_key: processed/transactions_clean.csv
+  curated_facts_key: curated/fact_transactions.csv
+  curated_dim_customers_key: curated/dim_customers.csv
