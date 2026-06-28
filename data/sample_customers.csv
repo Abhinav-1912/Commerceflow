@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,country,signup_date
+C001,Ava,Stone,ava.stone@example.com,US,2025-03-01
+C002,Liam,Cole,liam.cole@example.com,US,2024-11-15
+C003,Noah,Ross,noah.ross@example.com,US,2026-01-01
+C004,Mia,Brooks,mia.brooks@example.com,CA,2023-07-19
